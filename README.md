@@ -1,3 +1,4 @@
+
  ## SPARTA FITNESS CLUB
  
 Sparta Fitness Club is an digital fitness content publisher. The company offers free and paid at-home exercise videos through their website. Sparta Fitness Club offers individual workouts and workout plans.
@@ -26,7 +27,7 @@ This is a Collabrative Project build within 5 days. Created a functional website
 
 
 ### SCREENSHOTS
-
+![Screenshot 2024-09-03 165738](https://github.com/user-attachments/assets/6a285323-d4f1-4eb1-9ddd-7f44ce9abeb7)
 ![Screenshot (262)](https://user-images.githubusercontent.com/107467642/209663492-e5ae8343-7c41-430c-8b46-3d746f284ef6.png)
 
 ![Screenshot (263)](https://user-images.githubusercontent.com/107467642/209663540-63fad292-1678-4323-886f-80d10881e6f6.png)
